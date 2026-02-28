@@ -1,5 +1,7 @@
 # G+3 RCC Building Design using ETABS
 
+ETABS Modeling, Analysis and RCC Design of G+3 Residential Building as per IS 456:2000
+
 ## 📌 Project Overview
 This project involves modelling, analysis and design of a G+3 reinforced concrete building using ETABS software.
 
@@ -32,9 +34,31 @@ This project involves modelling, analysis and design of a G+3 reinforced concret
 - Permissible Drift Limit: H/500 = 24 mm
 - Drift Condition: SAFE
 - PMM Interaction Ratio: Less than 1.0 (All columns safe)
-
+  
 ## ✅ Conclusion
 The structure satisfies drift requirements and strength requirements as per IS codes. All columns and beams are within safe limits.
+
+## 📸 Project Screenshots
+
+### Undeformed Shape
+![Undeformed Shape](screenshots/01_Undeformed_Shape.png)
+
+### Deformed Shape
+![Deformed Shape](screenshots/02_Deformed_Shape.png)
+
+### Max Story Displacement
+![Max Story Displacement](screenshots/03_Max_Story_Displacement_EX.png)
+
+### Base Reaction
+![Base Reaction](screenshots/04_Base_Reaction_0.9DL+1.5EX.png)
+
+### Column PMM Interaction Ratio
+![PMM Ratio](screenshots/05_column_PMM_Interaction_Ratio.png)
+
+
+## 👨‍💻 Author
+Ashmitha Vemula  
+B.Tech Civil Engineering
 
 ---
 
