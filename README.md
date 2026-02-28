@@ -1,21 +1,41 @@
 # G+3 RCC Building Design using ETABS
 
 ## 📌 Project Overview
-This project involves modeling, analysis and design of a G+3 RCC framed structure using ETABS software.
+This project involves modelling, analysis and design of a G+3 reinforced concrete building using ETABS software.
 
-## 🏗 Details
-- Software: ETABS
-- Design Code: IS 456:2000
-- Story Height: 3m
-- Loads Applied: Dead Load, Live Load, Wind Load
-- Analysis Type: Linear Static Analysis
+## 🛠 Software Used
+- ETABS 20
 
-## ✅ Design Checks Performed
-- Load combinations created
-- Story drift verified
-- Base reactions checked
-- Column P-M-M interaction ratio verified
-- Maximum Interaction Ratio = 1.0 (Safe)
+## 📚 Design Codes
+- IS 456:2000 (Plain and Reinforced Concrete)
+- IS 1893 (Part 1) – Seismic Analysis
 
-## 🎯 Conclusion
-The structure was analyzed and designed successfully and found to be safe under given load combinations.
+## 🏗 Building Details
+- Structure Type: RCC Framed Structure
+- Number of Stories: G+3
+- Storey Height: 3 m
+- Total Height: 12 m
+
+## ⚖ Loads Considered
+- Dead Load (DL)
+- Live Load (LL)
+- Seismic Load (EX, EY)
+
+## 🔢 Load Combinations
+- 0.9DL + 1.5EX
+- 0.9DL + 1.5EY
+- 1.2DL + 1.2LL + 1.2EX
+- 1.2DL + 1.2LL + 1.2EY
+
+## 📊 Key Results
+- Maximum Story Displacement: 20.79 mm
+- Permissible Drift Limit: H/500 = 24 mm
+- Drift Condition: SAFE
+- PMM Interaction Ratio: Less than 1.0 (All columns safe)
+
+## ✅ Conclusion
+The structure satisfies drift requirements and strength requirements as per IS codes. All columns and beams are within safe limits.
+
+---
+
+📁 Detailed calculations and results are available in the attached project report PDF.
