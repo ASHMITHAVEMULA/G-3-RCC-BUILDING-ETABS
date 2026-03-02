@@ -1,4 +1,4 @@
-# G+3 RCC Building Design using ETABS
+# G+3 RCC Building Design using ETABS 
 
 ETABS Modeling, Analysis and RCC Design of G+3 Residential Building as per IS 456:2000
 
