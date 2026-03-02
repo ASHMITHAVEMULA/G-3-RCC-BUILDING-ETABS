@@ -6,7 +6,7 @@ ETABS Modeling, Analysis and RCC Design of G+3 Residential Building as per IS 45
 This project involves modelling, analysis and design of a G+3 reinforced concrete building using ETABS software.
 
 ## 🛠 Software Used
-- ETABS 20
+- ETABS 23
 
 ## 📚 Design Codes
 - IS 456:2000 (Plain and Reinforced Concrete)
